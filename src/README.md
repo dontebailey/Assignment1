@@ -1,7 +1,10 @@
-<style>
-red{ color: red}
-yellow{color: yellow}
-</style>
+[//]: # (<style>)
+
+[//]: # (red{ color: red})
+
+[//]: # (yellow{color: yellow})
+
+[//]: # (</style>)
 
 <yellow>AUTHOR</yellow>: &nbsp;Donte Bailey
 
